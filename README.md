@@ -12,7 +12,7 @@
 ## 📋 兼容性
 
 - **目标应用**: ColorOS 系统桌面 (`com.android.launcher`)
-- **Android 版本**: Android 16 (ColorOS 16 / RealmeUI 7 / OxygenOS 16)
+- **Android 版本**: Android 16/15 (ColorOS 16-15 / RealmeUI 7-6 / OxygenOS 16-15)
 - **依赖框架**: LSPosed / 其他 Xposed 框架
 - **API 版本**: YukiHookAPI 1.3.0
 
